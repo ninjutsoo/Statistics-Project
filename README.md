@@ -1,8 +1,8 @@
 # Statistics-Project
 
 ## Preprocessing
-#### we have our independent parameters (MSSubclass, MSZoning, ...) in x_train for training and x_test for testing.
-#### we have our dependent parameter (SalePrice) in y_train for train and y_test for test.
+#### We have our independent parameters (MSSubclass, MSZoning, ...) in x_train for training and x_test for testing.
+#### We have our dependent parameter (SalePrice) in y_train for train and y_test for test.
 
 ## Processing (Training the model)
 #### Here we use Random-forest to train the model. 
@@ -16,4 +16,4 @@
 #### rmse is 23904.675563704 in my run.
 
 ## Plotting y_test vs pred
-#### to show how good them model is.
+#### To show how good them model is.
