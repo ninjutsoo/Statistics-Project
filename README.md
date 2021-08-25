@@ -1,5 +1,5 @@
 # Statistics-Project
-
+### This project is using Rainforest as a regression method to predic from datas.
 ## Preprocessing
 #### We have our independent parameters (MSSubclass, MSZoning, ...) in x_train for training and x_test for testing.
 #### We have our dependent parameter (SalePrice) in y_train for train and y_test for test.
